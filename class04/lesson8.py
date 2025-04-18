@@ -26,7 +26,7 @@ def sum_all(*numbers):
 def show_info(**kwargs):
     for key, value in kwargs.items():
         print(f"{key}: {value}")
-
+ 
 # Lambda Function (Anonymous)
 square = lambda x: x * x
 
