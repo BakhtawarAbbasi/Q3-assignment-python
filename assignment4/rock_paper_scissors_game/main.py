@@ -17,11 +17,11 @@ if st.button("🔥 Play Now"):
     # Display both choices in the same row
     col1, col2 = st.columns(2)
     with col1:
-        st.subheader("🧑 You chose:")
+        st.subheader("🧑 You chosoe:")
         st.markdown(f"<h2 style='text-align: center;'>{user_choice}</h2>", unsafe_allow_html=True)
 
     with col2:
-        st.subheader("🤖 Computer chose:")
+        st.subheader("🤖 Computer choose:")
         st.markdown(f"<h2 style='text-align: center;'>{computer_choice}</h2>", unsafe_allow_html=True)
 
     # Remove emojis for logic comparison
