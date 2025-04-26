@@ -52,4 +52,4 @@ if st.button("🔥 Play Now"):
         st.balloons()
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: 14px;'>Made with ❤️ by Bakhtawar Abdul Kareem</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 14px;'>Made with ❤️ by Bakhtawar </p>", unsafe_allow_html=True)
