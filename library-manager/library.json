@@ -62,5 +62,13 @@
         "genre": "Philosophy",
         "read_status": true,
         "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "Hello",
+        "author": "Bakhtawar",
+        "publication_year": 2025,
+        "genre": "Other",
+        "read_status": true,
+        "added_date": "2025-04-26 14:21:10"
     }
 ]
